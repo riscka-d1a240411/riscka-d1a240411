@@ -6,7 +6,7 @@ dengan tampilan depan data artikel, data gallery, about, dan tombol login. diser
 
 Screenshot:
 <img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/8eb3d396-927d-4f38-8506-f51721b071e5" /><br><br>
-<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/1cf6abde-cad1-4ecf-9241-ab683cbc2a9f" /><br><br>
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/240cdc23-daa1-474f-a95a-05d3cfaf9644" /><br><br>
 <img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/1ede9427-1ec8-42e7-81cc-6df0413eea46" /><br><br>
 <img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/5c4dbfc9-5472-410c-8a40-91774cb90074" /><br><br>
 <img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/20caf1ab-7b9e-432d-8243-d76ac8ca262f" /><br><br>
